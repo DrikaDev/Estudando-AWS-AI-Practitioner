@@ -6,12 +6,12 @@ equipes de software no processo de criação, manutenção e operação de aplic
 É um **assistente de IA que você pode “conversar” e que entende linguagem natural**.  
 Ele permite que você faça perguntas como se estivesse falando com um colega desenvolvedor e usa IA para:  
 
-- Responder dúvidas sobre arquitetura e melhores práticas;
-- Ajudar a entender e codificar melhores soluções;
-- Gerar, revisar e melhorar código automaticamente;
-- Detectar vulnerabilidades e sugerir correções;
-- Produzir documentação e testes;
-- E muito mais.
+- Gera **sugestões de código** com base em comentários em linguagem natural;
+- Pode **editar, verificar e otimizar códigos preexistentes**;
+- Cria sugestões **em linha** ou **conteúdo de código totalmente novo**;
+- Detecta **problemas de segurança ou qualidade do código** e sugere soluções;
+- Ajuda a **produzir documentação e testes automaticamente**;
+- **Acelera o desenvolvimento**, reduzindo trabalho repetitivo e otimizando a produtividade.
 
 Ele é **baseado no Amazon Bedrock**, um serviço da AWS que dá acesso a modelos de IA avançados com segurança e controles de uso responsáveis.
 
@@ -25,8 +25,9 @@ Ele é **baseado no Amazon Bedrock**, um serviço da AWS que dá acesso a modelo
 ## Recursos principais
 
 - Geração de código e sugestões automáticas;
-- Explicação de lógica e arquitetura de um projeto;
-- Identificação e correção de erros e vulnerabilidades;
+- Verificação e otimização de códigos preexistentes;
+- Identificação e correção de problemas de segurança ou qualidade do código;
+- Criação de código novo ou em linha;
 - Automação de tarefas repetitivas (como testes e documentação);
 - Integração opcional com repositórios para respostas mais contextualizadas.
 
