@@ -16,9 +16,11 @@ Eles não são criados para resolver apenas um problema específico, são criado
 - Não é necessário treinar modelos do zero
 - O acesso é feito via API
 - O comportamento pode ser ajustado com:  
+
   - **Prompt engineering** - melhorar a forma como você faz a pergunta ao modelo. Exemplo:  
         - ❌ Prompt ruim: - “Fale sobre esqui”  
         - ✅ Prompt bem feito: “Explique esqui na neve, em montanhas, não esqui aquático, com foco em turismo.”  
+
   - **Fine-tuning** - ajustar o modelo com seus próprios dados, fornecendo exemplos, ajustando pesos do modelo, tornando o modelo mais especializado. Exemplo:  
         - Treinar o modelo com milhares de exemplos de:  
             - textos de turismo  
@@ -77,13 +79,9 @@ A empresa não deseja imagens de esqui aquático.
 **Pergunta:**  
 Que opção a empresa teria para evitar a geração de imagens indesejadas com o **MENOR esforço operacional**?
 
----
-
 ## Resposta
 
 Utilizar **prompt negativo (negative prompting)** para restringir a geração de conteúdos indesejados.
-
----
 
 ## Explicação
 
@@ -92,8 +90,8 @@ Nesse caso, o prompt pode especificar explicitamente que imagens de esqui aquát
 
 Essa abordagem oferece o **menor esforço operacional**, pois não exige fine-tuning, mudanças de infraestrutura ou pós-processamento das imagens.
 
----
-
 ## Exemplo de prompt
 
-> “Generate images of people skiing on snow in mountains, **not water skiing**, **no boats**, **no lakes**, **no ocean**.”
+“Generate images of people skiing on snow in mountains, **not water skiing**, **no boats**, **no lakes**, **no ocean**.”
+
+> Nota: Os prompts são escritos em inglês para melhorar a qualidade da geração do modelo.
