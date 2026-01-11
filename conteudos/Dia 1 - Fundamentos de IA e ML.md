@@ -106,4 +106,4 @@ IA → ML → Deep Learning
 
 ---
 
-👉🏻 [Clique aqui para voltar ao Readme](https://github.com/DrikaDev/Estudando-AWS-AI-Practitioner/blob/main/README.md) 📒
+👉🏻 [Clique aqui para voltar ao RoadMap](https://github.com/DrikaDev/Estudando-AWS-AI-Practitioner/blob/main/conteudos/Roadmap%20de%20Estudos.md) 🗺️ 
