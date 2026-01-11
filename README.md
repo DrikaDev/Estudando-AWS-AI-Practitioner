@@ -17,3 +17,7 @@
 ### 📖 Guia do Exame
 
 - [Guia do Exame AWS Certified AI Practitioner (AIF-C01)](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/pt_BR/certification/approved/pdfs/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)
+
+### 🗺️ Roadmap de Estudos
+
+- [Roadmap de Estudos – AWS Certified AI Practitioner (AIF-C01)](https://github.com/DrikaDev/Estudando-AWS-AI-Practitioner/blob/main/conteudos/Roadmap%20de%20Estudos.md)
