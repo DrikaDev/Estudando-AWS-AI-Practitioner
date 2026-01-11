@@ -36,7 +36,7 @@ Exemplo:
 Liste cinco frutas vermelhas.
 ```
 
-## 4️⃣ Chain-of-Thought (Raciocínio passo a passo)
+## 4️⃣ Chain-of-Thought (Cadeia de pensamento)
 
 - Peça ao modelo que explique o raciocínio antes de dar a resposta.  
 - Muito usado para problemas complexos ou matemáticos.  
