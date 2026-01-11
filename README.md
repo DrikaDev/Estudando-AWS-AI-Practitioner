@@ -3,7 +3,7 @@
 ### 🎯 Objetivo  
 
 ✏️ Este repositório tem como objetivo documentar minha jornada de estudos com a **AWS** com foco na certificação **AWS Certified AI Practitioner**.  
-📝 Aqui pretendo reunir minhas anotações, explicações, resumos e simulados para **compreender melhor os serviços de IA e Machine Learning na nuvem AWS**. 
+📝 Aqui pretendo reunir minhas anotações, explicações, resumos e simulados para **compreender melhor os serviços de IA e Machine Learning na nuvem AWS**.  
 🚧 Este conteúdo está sendo construído e alimentado gradualmente à medida que avanço nos meus estudos sobre IA.  
 
 > *Lembrando que este conteúdo está em constante construção, portanto, pode haver 'erros'.*  
