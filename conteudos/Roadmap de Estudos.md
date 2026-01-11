@@ -20,7 +20,7 @@
 
 ## 🗓️ Plano diário de estudos
 
-### 🔹 Dia 1 (10/01) — Fundamentos de IA e ML (Domínio 1 – Parte 1)
+### 🔹 Dia 1 — Fundamentos de IA e ML - Parte 1
 - O que é IA, ML e Deep Learning
 - Tipos de aprendizado:
   - Supervisionado
@@ -34,7 +34,8 @@
   - Assíncrona
   - Em lote
 
-🧠 Foque em **conceito + exemplos simples** (nível negócio).
+🧠 Foque em **conceito + exemplos simples** (nível negócio).  
+👉🏼 [Veja aqui o conteúdo](https://github.com/DrikaDev/Estudando-AWS-AI-Practitioner/blob/main/conteudos/Dia%201%20-%20Fundamentos%20de%20IA%20e%20ML.md)
 
 ---
 
