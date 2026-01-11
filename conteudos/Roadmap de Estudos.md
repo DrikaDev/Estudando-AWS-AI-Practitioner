@@ -213,3 +213,7 @@
 - [ ] Sei mapear serviços AWS → casos de uso
 - [ ] Entendo riscos e limites da IA generativa
 - [ ] Fiz pelo menos 2 simulados
+
+---
+
+👉🏻 [Clique aqui para voltar ao Readme](https://github.com/DrikaDev/Estudando-AWS-AI-Practitioner/blob/main/README.md) 📒
