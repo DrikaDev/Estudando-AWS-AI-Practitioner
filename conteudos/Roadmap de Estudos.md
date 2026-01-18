@@ -1,7 +1,7 @@
 ## 🗺️ Roadmap de Estudos – AWS Certified AI Practitioner (AIF-C01)
 
-📅 Período: 10/01 a 19/01  
-🎯 Prova: 20/01  
+📅 Período: 18/01 a 31/01  
+🎯 Prova: 03/02  
 📌 Objetivo: atingir pelo menos 75–80% de confiança antes do exame
 
 ---
